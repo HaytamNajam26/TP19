@@ -193,6 +193,11 @@ Pour activer le routage dynamique, modifier `GatewayApplication.java` :
 - `GET http://localhost:8888/SERVICE-VOITURE/voitures`
 
 ## 📸 Captures d'écran
+<img width="2507" height="1552" alt="Screenshot 2025-12-27 191722" src="https://github.com/user-attachments/assets/189be54b-bf33-4450-9c94-8c652bb0215a" />
+<img width="2559" height="1139" alt="image" src="https://github.com/user-attachments/assets/69131bc6-76fe-4509-a45d-cb1eaab64e53" />
+<img width="2559" height="642" alt="image" src="https://github.com/user-attachments/assets/8511c375-c44a-42ae-83d1-938d888d894d" />
+
+
 
 
 ## 🧪 Tests
